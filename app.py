@@ -6,7 +6,7 @@ model = pickle.load(open("model.pkl", "rb"))
 
 # Page settings
 st.set_page_config(
-    page_title="Movie Review Sentiment Analyzer",
+    page_title="Text-Analytics CA2",
     page_icon="🎬",
     layout="centered"
 )
